@@ -76,12 +76,3 @@ This repository showcases expertise in:
 
 ---
 
-## 📂 Repository Structure
-```bash
-├── 01_Bronze_Layer_Ingestion.sql   # Scripts for loading raw data
-├── 02_Silver_Layer_Cleaning.sql    # Data cleaning and standardization procedures
-├── 03_Gold_Layer_Modeling.sql      # Star Schema (Fact/Dim) creation
-├── 04_Analytics_Queries.sql        # Business insight queries
-├── assets/                         # Architecture diagrams and screenshots
-├── data/                           # Sample CSV datasets
-└── README.md                       # Project documentation
